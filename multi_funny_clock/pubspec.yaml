@@ -1,0 +1,87 @@
+name: multi_funny_clock
+description: MultiFunnyClock.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_clock_helper:
+    path: ../flutter_clock_helper
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/type10.png
+    - assets/type11.png
+    - assets/type12.png
+    - assets/type13.png
+    - assets/type14.png
+    - assets/type15.png
+    - assets/type16.png
+    - assets/type17.png
+    - assets/type18.png
+    - assets/type19.png
+
+    - assets/type20.png
+    - assets/type21.png
+    - assets/type22.png
+    - assets/type23.png
+    - assets/type24.png
+    - assets/type25.png
+    - assets/type26.png
+    - assets/type27.png
+    - assets/type28.png
+    - assets/type29.png
+
+    - assets/type30.png
+    - assets/type31.png
+    - assets/type32.png
+    - assets/type33.png
+    - assets/type34.png
+    - assets/type35.png
+    - assets/type36.png
+    - assets/type37.png
+    - assets/type38.png
+    - assets/type39.png
+
+    - assets/type40.png
+    - assets/type41.png
+    - assets/type42.png
+    - assets/type43.png
+    - assets/type44.png
+    - assets/type45.png
+    - assets/type46.png
+    - assets/type47.png
+    - assets/type48.png
+    - assets/type49.png
+
+    - assets/type50.png
+    - assets/type51.png
+    - assets/type52.png
+    - assets/type53.png
+    - assets/type54.png
+    - assets/type55.png
+    - assets/type56.png
+    - assets/type57.png
+    - assets/type58.png
+    - assets/type59.png
+
+    - assets/type60.png
+    - assets/type61.png
+    - assets/type62.png
+    - assets/type63.png
+    - assets/type64.png
+    - assets/type65.png
+    - assets/type66.png
+    - assets/type67.png
+    - assets/type68.png
+    - assets/type69.png
